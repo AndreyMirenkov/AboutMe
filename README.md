@@ -17,4 +17,3 @@
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-[![](https://github-readme-stats.vercel.app/api?username=AndreyMirenkov)](https://github.com/AndreyMirenkov/github-readme-stats)
